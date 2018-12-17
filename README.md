@@ -3,7 +3,7 @@ bs58
 
 [![build status](https://travis-ci.org/cryptocoinjs/bs58.svg)](https://travis-ci.org/cryptocoinjs/bs58)
 
-JavaScript component to compute base 58 encoding. This encoding is typically used for crypto currencies such as Bitcoin.
+JavaScript component to compute base 58 encoding. This encoding is typically used for crypto currencies such as Ravencoin.
 
 **Note:** If you're looking for **base 58 check** encoding, see: [https://github.com/bitcoinjs/bs58check](https://github.com/bitcoinjs/bs58check), which depends upon this library.
 
